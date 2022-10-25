@@ -1,0 +1,185 @@
+.top_and_bottom {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.border_right {
+    border-right: 2px solid #d1d1d1;
+}
+.color {
+    color: #747474;
+}
+.top_height {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.no-padding {
+    padding-left: 0;
+    padding-right: 0;
+}
+.bottom_height {
+    margin-bottom: 50px;
+}
+.empty {
+    padding: 30px;
+    background-color: #eeeeee;
+    border-radius: 30px;
+}
+.bottom_page {
+    background-color: rgb(70, 70, 70);
+    color: cornsilk;
+}
+.padding_top {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.width_10 {
+    width: 50%;
+    background-color: #ffffffde;
+    border-radius: 30px;
+    padding: 25px;
+}
+.img_1 {
+    background-image: url(image/View2.jpg);
+    background-size: cover;
+    height: auto;
+    background-position: center;
+}
+.top_pad {
+    padding-top: 150px;
+}
+.move
+{
+    margin-right:200px;
+}
+
+.move1
+{
+    margin-left:100px ;
+}
+.coolip{
+    border-radius: .9rem;
+    border-width: 0px;
+    background-color: gray ;
+}
+.bruh
+{
+    opacity: 0.6;
+}
+
+.form__field {
+    width: 100%;
+    border: 0;
+    border-bottom: 2px solid black;
+    outline: 0;
+    color: black;
+    padding: 7px 0;
+    background: transparent;
+    transition: border-color 0.2s;
+}
+
+.hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+  }
+
+  .top_pad_1 {
+    padding-top: 23%;
+    color: aliceblue;
+}
+.img_2 {
+    background-image: url(image/reservation.png);
+    background-size: cover;
+    height: 60vh;
+    background-position: center;
+}
+.img_3 {
+    background-image: url(image/hallreservation1.png);
+    background-size: cover;
+    height: 60vh;
+    background-position: center;
+}
+
+.img_4 {
+    background-image: url(image/foodreser.png);
+    background-size: cover;
+    height: 65vh;
+    background-position: center;
+}
+
+.back_select {
+    background-color: rgba(202, 202, 202, 0.705);
+}
+.back_color_blue {
+    background-color: rgb(129, 213, 228);
+    color: white;
+    margin-top: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 50px;
+}
+.back_color_brown {
+    background-color: rgb(204, 181, 117);
+    color: white;
+    margin-top: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 50px;
+}
+
+.blackcol{
+    border-bottom: 5px;
+    color: black;
+}
+.c {
+    text-decoration-line: underline;
+    text-decoration-style: double;
+}
+
+.width_1 {
+    width: 40%;
+    height: auto;
+}
+
+.back_color_green1 {
+    background-color: rgb(186, 206, 113);
+    color: white;
+    margin-top: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 50px;
+}
+
+.back_color_green2 {
+    background-color: rgb(90, 119, 67);
+    color: white;
+    margin-top: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 50px;
+}
+
+.back_color_green3 {
+    background-color: rgb(31, 49, 23);
+    color: white;
+    margin-top: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 50px;
+}
+
+ .lian
+  {
+      padding-bottom: 10%;
+  }
+  .navbar {
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
